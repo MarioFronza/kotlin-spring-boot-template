@@ -1,4 +1,4 @@
-package br.com.mariofronza.kotlinspringboottemplate
+package com.org.template
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
@@ -9,5 +9,4 @@ class KotlinSpringBootTemplateApplicationTests {
 	@Test
 	fun contextLoads() {
 	}
-
 }
